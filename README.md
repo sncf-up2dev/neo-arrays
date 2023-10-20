@@ -27,4 +27,4 @@ L'objectif est donc de faire en sorte que le type du tableau soit un sous-type d
 
 ## Vérification
 
-Les tests dans [la branche `tests`](tree/tests) de ce dépôt doivent passer sans échecs pour une solution correcte.
+Étant donné un nom de paquetage `fr.sncf.up2dev.arrays`, les tests dans [la branche `tests`](https://github.com/sncf-up2dev/neo-arrays/tree/tests) de ce dépôt doivent passer sans échecs pour une solution correcte.
