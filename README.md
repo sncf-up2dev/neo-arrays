@@ -14,7 +14,7 @@ La classe possède une méthode en lecture seule.
 * La méthode `length()` qui envoie la taille du tableau stocké (elle ne prend aucun paramètre).
  
 
-## Tableaux immutables
+## Tableaux triés
 
 La classe générique `OrderedArray` hérite de la classe `ImmutableArray`, il doit être paramétrable avec n'importe quel type objet.
 
